@@ -1,0 +1,18 @@
+html {
+    text-align: center;
+    background-color: rgb(143, 250, 214);
+}
+
+input {
+    border-color: black;
+    border-radius: 10px;
+    background-color: khaki;
+
+}
+
+label {
+    size: 20px;
+    font-size: 20px;
+}
+
+
